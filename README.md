@@ -51,4 +51,4 @@ Inside the `.env` file, type `TOKEN:<YOUR TOKEN WILL GO HERE>`
 If all goes corectly, you are all done and can now run your bot by running the `main.py` file!
 
 # Questions, Comments, or Suggestions?
-You can contect me on discord -> `Woofer21#0220`!
+You can contect me via direct message on discord -> `Woofer21#0220`!
